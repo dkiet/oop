@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C#_Kiet\DuongVanKiet\Bai_05\bin\Debug\Bai_05.exe.config
+C:\Users\HP\Desktop\C#_Kiet\DuongVanKiet\Bai_05\bin\Debug\Bai_05.exe
+C:\Users\HP\Desktop\C#_Kiet\DuongVanKiet\Bai_05\bin\Debug\Bai_05.pdb
+C:\Users\HP\Desktop\C#_Kiet\DuongVanKiet\Bai_05\obj\Debug\Bai_05.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#_Kiet\DuongVanKiet\Bai_05\obj\Debug\Bai_05.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C#_Kiet\DuongVanKiet\Bai_05\obj\Debug\Bai_05.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#_Kiet\DuongVanKiet\Bai_05\obj\Debug\Bai_05.exe
+C:\Users\HP\Desktop\C#_Kiet\DuongVanKiet\Bai_05\obj\Debug\Bai_05.pdb
